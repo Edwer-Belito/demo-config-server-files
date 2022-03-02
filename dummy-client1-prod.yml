@@ -1,0 +1,12 @@
+application:
+  location: config (GitHub)
+  config:
+    profile: prod
+    description: valor obtenido desde 'dummy-client1-prod.yml'
+
+  users:
+    lparedes:
+      id: 1000
+      name: Luis
+      lastname: Paredes
+      active: true

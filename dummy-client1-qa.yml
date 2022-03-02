@@ -1,0 +1,17 @@
+application:
+  location: config (GitHub)
+  config:
+    profile: qa
+    description: valor obtenido desde 'dummy-client1-qa.yml'
+
+  users:
+    lparedes:
+      id: 1000
+      name: Luis
+      lastname: Paredes
+      active: true
+    dramirez:
+      id: 1001
+      name: Daniel
+      lastname: Ramirez
+      active: false
